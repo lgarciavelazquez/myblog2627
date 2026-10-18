@@ -1,0 +1,11 @@
+--2024-11-04 12:42:58--  https://www.google.com/url?sa=i
+Resolviendo www.google.com (www.google.com)... 216.58.215.164, 2a00:1450:4003:806::2004
+Conectando con www.google.com (www.google.com)[216.58.215.164]:443... conectado.
+Petición HTTP enviada, esperando respuesta... 200 OK
+Longitud: no especificado [text/html]
+Grabando a: «url?sa=i»
+
+url?sa=i                                    [<=>                                                                           ]       0  --.-KB/s               url?sa=i                                    [ <=>                                                                          ]   1,38K  --.-KB/s    en 0s      
+
+2024-11-04 12:42:58 (8,23 MB/s) - «url?sa=i» guardado [1416]
+
